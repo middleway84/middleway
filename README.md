@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @mikebudny
-- 👀 I’m interested in all things tech, gaming, and just learning in general :)
-- 🌱 I’m currently learning python, linux command line
+- 👋 What up! I’m @middleway84
+- 👀 I’m interested in all things tech, gaming, and just learning in general. Fairly new to programming and soaking it all up!
+- 🌱 I’m currently learning python, linux command line, & raspberry pi related DIY projects.
 
-- 📫 How to reach me 
-
-<!---
-mikebudny/mikebudny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Thanks in advance for any help you share or send my way!!
